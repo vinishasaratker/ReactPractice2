@@ -1,7 +1,11 @@
  function Hello(){
     return(
         <>
-        <h1>  CLG JA RHE HAI  !</h1>
+        <h1> 
+             CLG JA RHE HAI  !!
+
+        </h1>
+
         </>
     )
 }
